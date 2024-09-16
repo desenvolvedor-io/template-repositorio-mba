@@ -6,6 +6,10 @@ Bem-vindo ao repositório do projeto **[Título do Projeto]**. Este projeto é u
 O objetivo principal desenvolver uma aplicação de blog que permite aos usuários criar, editar, visualizar e excluir posts e comentários, tanto através de uma interface web utilizando MVC quanto através de uma API RESTful.
 Descreva livremente mais detalhes do seu projeto aqui.
 
+### **Autor(es)**
+- **Nome 1**
+- **Nome 2**
+
 ## **2. Proposta do Projeto**
 
 O projeto consiste em:
